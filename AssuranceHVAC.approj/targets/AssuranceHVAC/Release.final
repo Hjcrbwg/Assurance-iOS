@@ -1,0 +1,415 @@
+{
+    "xcode_project": "AssuranceHVAC.xcodeproj", 
+    "java_sources": [], 
+    "pchs": [
+        "./AssuranceHVAC/AssuranceHVAC-Prefix.pch"
+    ], 
+    "assets": [
+        {
+            "asset": "AssuranceHVAC/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "AssuranceHVAC/info.png", 
+            "target": "info.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/info@2x.png", 
+            "target": "info@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/clock.png", 
+            "target": "clock.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/clock@2x.png", 
+            "target": "clock@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/message.png", 
+            "target": "message.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/message@2x.png", 
+            "target": "message@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-72.png", 
+            "target": "Icon-72.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-72@2x.png", 
+            "target": "Icon-72@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-76.png", 
+            "target": "Icon-76.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-76@2x.png", 
+            "target": "Icon-76@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-Small-50.png", 
+            "target": "Icon-Small-50.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-Small-50@2x.png", 
+            "target": "Icon-Small-50@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-Small.png", 
+            "target": "Icon-Small.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon-Small@2x.png", 
+            "target": "Icon-Small@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon@2x.png", 
+            "target": "Icon@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/Icon.png", 
+            "target": "Icon.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/iTunesArtwork.png", 
+            "target": "iTunesArtwork.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/App Icon [Squared]/iTunesArtwork@2x.png", 
+            "target": "iTunesArtwork@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/Any Apps R Us Logo - Large [Full].png", 
+            "target": "Any Apps R Us Logo - Large [Full].png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/Any Apps R Us Logo - Large.png", 
+            "target": "Any Apps R Us Logo - Large.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/Any Apps R Us Logo - Medium [Full].png", 
+            "target": "Any Apps R Us Logo - Medium [Full].png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/Any Apps R Us Logo - Medium.png", 
+            "target": "Any Apps R Us Logo - Medium.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/Any Apps R Us Logo - Small [Full].png", 
+            "target": "Any Apps R Us Logo - Small [Full].png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/Any Apps R Us Logo - Small.png", 
+            "target": "Any Apps R Us Logo - Small.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/assuranceHeatingLogo.png", 
+            "target": "assuranceHeatingLogo.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/images/assuranceHeatingLogo@2x.png", 
+            "target": "assuranceHeatingLogo@2x.png"
+        }, 
+        {
+            "asset": "AssuranceHVAC/custom line.png", 
+            "target": "custom line.png"
+        }
+    ], 
+    "link_flags": [], 
+    "config": {
+        "FEATURES": [
+            "opengles2", 
+            "portrait"
+        ], 
+        "SHORT_VERSION": "1.0", 
+        "APPLICATION_NAME": "AssuranceHVAC", 
+        "LONG_VERSION": "1.0", 
+        "APPLICATION_IDENTIFIER": "com.anyappsrus.assurancehvac", 
+        "TEMPLATE_VALUES": {
+            "PRODUCT_NAME": "AssuranceHVAC", 
+            "EXECUTABLE_NAME": "AssuranceHVAC"
+        }, 
+        "APPLICATION_FULL_NAME": "AssuranceHVAC"
+    }, 
+    "header_paths": [
+        {
+            "header_path": "AssuranceHVAC-generated-files.hmap", 
+            "type": "iquote", 
+            "hmap": {}
+        }, 
+        {
+            "header_path": "AssuranceHVAC-own-target-headers.hmap", 
+            "type": "I", 
+            "hmap": {}
+        }, 
+        {
+            "header_path": "AssuranceHVAC-all-target-headers.hmap", 
+            "type": "I", 
+            "hmap": {}
+        }, 
+        {
+            "header_path": "AssuranceHVAC-project-headers.hmap", 
+            "type": "iquote", 
+            "hmap": {
+                "UIPlaceHolderTextView.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "UIPlaceHolderTextView.h", 
+                    "key": "UIPlaceHolderTextView.h"
+                }, 
+                "AppDelegate.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "AppDelegate.h", 
+                    "key": "AppDelegate.h"
+                }, 
+                "ServiceFormViewController.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "ServiceFormViewController.h", 
+                    "key": "ServiceFormViewController.h"
+                }, 
+                "lineFadeView.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "lineFadeView.h", 
+                    "key": "lineFadeView.h"
+                }, 
+                "AssuranceLogoView.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "AssuranceLogoView.h", 
+                    "key": "AssuranceLogoView.h"
+                }, 
+                "AssuranceContact.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "AssuranceContact.h", 
+                    "key": "AssuranceContact.h"
+                }, 
+                "ServiceInfoViewController.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "ServiceInfoViewController.h", 
+                    "key": "ServiceInfoViewController.h"
+                }, 
+                "HomeViewController.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "HomeViewController.h", 
+                    "key": "HomeViewController.h"
+                }, 
+                "ServiceTypeViewController.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "ServiceTypeViewController.h", 
+                    "key": "ServiceTypeViewController.h"
+                }, 
+                "AssuranceHVAC-Prefix.pch": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "AssuranceHVAC-Prefix.pch", 
+                    "key": "AssuranceHVAC-Prefix.pch"
+                }, 
+                "PeopleViewController.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "PeopleViewController.h", 
+                    "key": "PeopleViewController.h"
+                }, 
+                "ContactUsViewController.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "ContactUsViewController.h", 
+                    "key": "ContactUsViewController.h"
+                }, 
+                "ReminderViewController.h": {
+                    "prefix": "./", 
+                    "suffix": "ReminderViewController.h", 
+                    "key": "ReminderViewController.h"
+                }, 
+                "ButtonView.h": {
+                    "prefix": "AssuranceHVAC/", 
+                    "suffix": "ButtonView.h", 
+                    "key": "ButtonView.h"
+                }
+            }
+        }, 
+        {
+            "header_path": "Pods/Headers", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Pods/Headers/DPTextField", 
+            "type": "I"
+        }
+    ], 
+    "modules": [], 
+    "sources": [
+        {
+            "source": "AssuranceHVAC/AppDelegate.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/AssuranceContact.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/AssuranceLogoView.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/ButtonView.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/ContactUsViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/HomeViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/PeopleViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/ServiceFormViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/ServiceInfoViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/ServiceTypeViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/UIPlaceHolderTextView.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/lineFadeView.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "AssuranceHVAC/main.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }, 
+        {
+            "source": "ReminderViewController.m", 
+            "header_paths": [], 
+            "flags": [], 
+            "language": "objc", 
+            "defines": {}
+        }
+    ], 
+    "version": "1", 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        "-fwritable-strings", 
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "infoplists": [
+        "./AssuranceHVAC/AssuranceHVAC-Info.plist"
+    ], 
+    "deps": [
+        "UIKit", 
+        "CoreGraphics", 
+        "AddressBookUI", 
+        "AddressBook", 
+        "EventKit", 
+        "QuartzCore", 
+        "CoreText", 
+        "MapKit", 
+        "MessageUI", 
+        "CoreGraphics", 
+        "CoreLocation", 
+        "Foundation", 
+        "UIKit"
+    ], 
+    "libs": [
+        "Pods"
+    ], 
+    "java_sourcepaths": [], 
+    "java_res_dirs": [], 
+    "type": "app", 
+    "java_libs": [], 
+    "defines": {
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 50000, 
+        "COCOAPODS": 1, 
+        "NS_BLOCK_ASSERTIONS": 1
+    }
+}

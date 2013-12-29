@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'AssuranceHVAC' target in the 'AssuranceHVAC' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_6_0
+#warning "This project uses features only available in iOS SDK 6.0 and later."
+@import UIKit;
+@import Foundation;
+#import "UIColor+FlatColor.h"
+#endif

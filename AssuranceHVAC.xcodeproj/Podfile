@@ -1,0 +1,3 @@
+platform:ios
+
+pod 'MGBox2', '~> 2.0.0'

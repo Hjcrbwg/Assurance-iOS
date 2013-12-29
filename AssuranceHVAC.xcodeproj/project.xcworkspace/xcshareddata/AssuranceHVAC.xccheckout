@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>89B95ECC-DB23-4C78-A16E-354D83BE7B79</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AssuranceHVAC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2B4370A-B670-46ED-B8D8-6B450B5D58C2</key>
+		<string>https://github.com/Hjcrbwg/Assurance-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AssuranceHVAC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2B4370A-B670-46ED-B8D8-6B450B5D58C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Hjcrbwg/Assurance-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2B4370A-B670-46ED-B8D8-6B450B5D58C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2B4370A-B670-46ED-B8D8-6B450B5D58C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assurance-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
